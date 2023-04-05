@@ -1,0 +1,45 @@
+/* LOGO NAVBAR */
+.logo {
+    width: 7rem;
+  }
+
+  .colornavbar {
+    background: rgb(37,97,181);
+    background: linear-gradient(0deg, rgba(37,97,181,1) 10%, rgba(13,73,157,1) 49%, rgba(10,48,102,1) 92%);
+  }
+
+ 
+i.fa-brands.fa-square-instagram.fa-xl:hover{
+  color:rgb(235, 106, 138);
+  
+}
+i.fa-brands.fa-square-instagram.fa-xl{
+  color:rgb(29, 26, 31);
+}
+
+i.fa-brands.fa-facebook.fa-xl { /* Cambia el color del icono de facebook y instagram y youtube poniendo una coma agregas mas clases*/
+  color:rgb(29, 26, 31)}
+
+
+
+i.fa-brands.fa-facebook.fa-xl:hover{
+  color:blue;
+}
+
+i.fa-solid.fa-user-lock.fa-xl:hover{
+  color:rgb(130, 138, 134)
+
+}
+ i.fa-brands.fa-youtube.fa-xl:hover{  /* Agrega color al icono de instagram y si agregamos :hover si apoyo el mouse por arriba aparece el color elejido */
+  color:red;
+
+
+}
+i.fa-brands.fa-youtube.fa-xl{
+color:rgb(29, 26, 31)
+
+}
+i.fa-brands.fa-youtube.fa-xl{color:rgb(29, 26, 31)
+
+
+}
